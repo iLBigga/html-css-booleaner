@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+}
+
+#header-bkg{
+    background-image: url(/img/pattern.png);
+    height: 150px;
+    background-color: aqua;
+    margin-bottom: 30px;
+}
+
+#logo{
+    width: 300px;
+    padding-top: 70px;
+    padding-left: 20px;
+}
+
+main{
+    max-width: 45%;
+    margin: auto;
+}
+
+.apertura-articolo{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.crediti{
+    font-size: 20px;
+    color: gray;   ;
+}
+
+#autore{
+    color: blue;
+}
+
+#data{
+    font-size: 15px;
+}
+
+.articolo-1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.evid{
+    background-color: yellowgreen;
+}
+
+#lista{
+    padding-left: 15px;
+    margin-bottom: 30px;
+    border-collapse: collapse;
+}
+
+.tabella{
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+
+.head-bkg{
+     background-color: aqua;
+}
+
+.bkg-color-1{
+    background-color: aquamarine;
+}
+
+
+.adv{
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+#adv-title{
+    color: grey;
+}
+
+.adv-board1{
+    background-image: url(/img/monitor.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.adv-board2{
+    background-image: url(/img/graph.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+}
+
+.adv-info{
+    color: white;
+    padding: 15px;
+}
+
