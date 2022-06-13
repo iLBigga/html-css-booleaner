@@ -14,16 +14,88 @@
     padding-left: 30px;
 }  
 
-#titolo{
-    font-size: 50px;
+.apertura-articolo {
     margin-top: 30px;
+    margin-bottom: 40px;
 }
 
-.autore{
+#titolo{
+    font-size: 60px;
+}
+
+.crediti{
     font-size: large;
     color: gray;
 }
 
-span{
+
+#autore{
     color: aqua;
+}
+
+
+.evid{
+    background-color: yellowgreen;
+}
+
+.articolo-1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#lista{
+    padding-left: 17px;
+}
+
+
+.tabella{
+    margin-top: 40px;
+    width: 100%;
+    text-align: left;
+    margin-bottom: 40px;
+    border-collapse: collapse;
+}
+
+/* #cells-width{
+    width: 300px;
+} */
+
+
+.head-bkg{
+    background-color: rgb(32, 169, 229)
+}
+
+.bkg-color-1{
+    background-color: rgb(177, 229, 242);;
+}
+
+.adv{
+    margin-top: 40px;
+    color: lightgrey;
+    font-size: 25px;
+}
+
+.adv-board1{
+    width: 300px;
+    height: 200px;
+    background-image: url(/img/monitor.jpg);
+    background-size: cover;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.adv-board2{
+    width: 300px;
+    height: 200px;
+    background-image: url(/img/graph.jpg);
+    background-size: cover;
+}
+
+#adv-title{
+    color: grey;
+}
+
+.adv-info{
+    color: white;
+    margin-top: 30px;
 }
