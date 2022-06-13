@@ -12,4 +12,18 @@
     width: 250px;
     margin-top: 70px;
     padding-left: 30px;
-}    
+}  
+
+#titolo{
+    font-size: 50px;
+    margin-top: 30px;
+}
+
+.autore{
+    font-size: large;
+    color: gray;
+}
+
+span{
+    color: aqua;
+}
