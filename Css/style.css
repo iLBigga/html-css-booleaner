@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+
+#header-bkg{
+    background-image: url(/img/pattern.png);
+    background-color: rgb(78, 160, 255);
+    height: 140px;
+    }
+
+#logo{
+    width: 250px;
+    margin-top: 70px;
+    padding-left: 30px;
+}    
