@@ -1,11 +1,12 @@
 *{
-    margin: 0;
+    margin: 0;   
 }
 
 #header-bkg{
-    background-image: url(/img/pattern.png);
+    background-image: url(../img/pattern.png);
     background-color: rgb(78, 160, 255);
     height: 140px;
+    margin: 0;
     }
 
 #logo{
@@ -22,6 +23,7 @@
 #titolo{
     font-size: 60px;
 }
+
 
 .crediti{
     font-size: large;
@@ -56,9 +58,9 @@
     border-collapse: collapse;
 }
 
-/* #cells-width{
+.cells-width{
     width: 300px;
-} */
+}
 
 
 .head-bkg{
@@ -78,7 +80,7 @@
 .adv-board1{
     width: 300px;
     height: 200px;
-    background-image: url(/img/monitor.jpg);
+    background-image: url(../img/monitor.jpg);
     background-size: cover;
     margin-bottom: 10px;
     margin-top: 10px;
@@ -87,7 +89,7 @@
 .adv-board2{
     width: 300px;
     height: 200px;
-    background-image: url(/img/graph.jpg);
+    background-image: url(../img/graph.jpg);
     background-size: cover;
 }
 
@@ -98,4 +100,9 @@
 .adv-info{
     color: white;
     padding-top: 10px;
+}
+
+
+main{
+    margin: 10px;
 }

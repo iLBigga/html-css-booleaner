@@ -3,7 +3,7 @@
 }
 
 #header-bkg{
-    background-image: url(/img/pattern.png);
+    background-image: url(../img/pattern.png);
     height: 150px;
     background-color: aqua;
     margin-bottom: 30px;
@@ -21,7 +21,7 @@ main{
 }
 
 .apertura-articolo{
-    font-size: 30px;
+    font-size: 40px;
     margin-bottom: 30px;
 }
 
@@ -67,6 +67,10 @@ main{
     background-color: aquamarine;
 }
 
+.cells-width{
+    width: 300px;
+}
+
 
 .adv{
     margin-top: 30px;
@@ -78,7 +82,7 @@ main{
 }
 
 .adv-board1{
-    background-image: url(/img/monitor.jpg);
+    background-image: url(../img/monitor.jpg);
     background-size: cover;
     width: 300px;
     height: 200px;
@@ -87,7 +91,7 @@ main{
 }
 
 .adv-board2{
-    background-image: url(/img/graph.jpg);
+    background-image: url(../img/graph.jpg);
     background-size: cover;
     width: 300px;
     height: 200px;
